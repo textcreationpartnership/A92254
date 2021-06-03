@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered, for setling a yearly incom from hackny-coachmen, and by a duty on coals, towards the relief of the orphans of the city of London. As to the yearly incom from hackny-coachmen ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92254</idno><idno type="EEBO-CITATION">45097912</idno>
+  <idno type="VID">171489</idno>
+  <idno type="EEBO-PROQUEST">2240891398</idno>
+  
+            <idno type="STC">Wing R541</idno>
+            <idno type="STC">ESTC R224570</idno>
+            <idno type="OCLC">45097912</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171489)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered, for setling a yearly incom from hackny-coachmen, and by a duty on coals, towards the relief of the orphans of the city of London. As to the yearly incom from hackny-coachmen ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft, printer to the honourable city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coaching --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Orphans --  England --  London.</term>
+               <term type="topical_term">Taxation --  England --  London.</term>
+               <term type="geographic_name">London (England) --  Politics and government --  17th century.</term>
+               <term type="geographic_name">London (England) --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171489:1"/>
+            <head>REASONS Humbly Offered, For Setling a Yearly Incom from <hi>Hackny-Coachmen,</hi> and by a Duty on <hi>Coals,</hi> towards the Relief of the <hi>ORPHANS</hi> of the City of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S to the Yearly Incom from <hi>Hackny-Coachmen,</hi> It is humbly Offered, That they should be under the Government and Regulation of the City of <hi>London,</hi> and Pay to the City towards Relief of the ORPHANS.</p>
+            <p>The City of <hi>London</hi> hath Time out of mind made By-Laws for regulating Disorders and Annoy<g ref="char:EOLhyphen"/>ances within the said City and its Liberties; And on this account did very Anciently limit the Numbers of <hi>Carrs</hi> to be used in <hi>London-Streets,</hi> and give them Licenses yearly, (which hath been often Allowed in <hi>Westminster-Hall</hi>); And likewise the <hi>Common Council</hi> of <hi>London</hi> did of Later years, after the Expiration of the <hi>Act of Parliament</hi> touching <hi>Hackny-Coaches</hi> (by Advice of Learned Council) make an Act to prevent Nusances in the Streets, and to the Inhabitants of the City and Damage of Trade by the multitude of <hi>Hackny Coaches,</hi> Restraining them to a Number and regulating their Standings.</p>
+            <p>By the former <hi>Act of Parliament</hi> for Licensing of <hi>Hackny Coaches,</hi>
+               <note place="margin">13 <hi>&amp;</hi> 14 <hi>Car.</hi> 2.</note> the Rent of <hi>Hackny Coaches</hi> was Appointed for Enlarging several Streets, as well in <hi>London</hi> as <hi>Westminster;</hi> And altho' there was raised thereby 34000 <hi>l.</hi> it was all applied to <hi>Westminster,</hi> except 1000 or 1500 <hi>l.</hi> for Rebuilding <hi>Temple Bar;</hi> which was as well for the Convenience of <hi>Westminster,</hi> as <hi>London,</hi> being the common Boundary and Passage of them both: So that to give <hi>London</hi> an equal Advantage (the <hi>Streets</hi> whereof are as much at least used and broken by <hi>Hackny Coaches,</hi> as <hi>Westminster</hi>); It is humbly desired, That <hi>London</hi> may now have the Benefit of that Revenue (as <hi>Westminster</hi> had it before) towards the Relief of so many <hi>Distressed Orphans.</hi>
+            </p>
+            <p>The Loss is exceedingly Great the City of <hi>London</hi> sustained by the Dreadful FIRE in <hi>Anno</hi> 1666, considering their <hi>Houses</hi> burnt down, a vast quantity of <hi>Goods</hi> and <hi>Merchandizes</hi> destroyed, the great Charge of <hi>Rebuilding,</hi> the Interruption of their <hi>Trade,</hi> and the Carrying it in great measure out of the <hi>City;</hi> Whereby the Losses and Calamity that befel <hi>London,</hi> have been a very great Gain and Advantage to <hi>Westminster</hi> and the adjacent Parts in <hi>Middlesex,</hi> in the Improvement and Increase of their <hi>Rents</hi> and <hi>Trade.</hi>
+            </p>
+            <p>The City of <hi>London</hi> is Charged in all <hi>Taxes</hi> much higher than <hi>Middlesex</hi> and <hi>Westminster,</hi> and had pressed for a considerable Abatement in the last <hi>Aid,</hi> had it not been for Retarding the <hi>Act;</hi> And that they were in hopes of the <hi>Parliaments</hi> further Assistance, in enabling them to Pay their <hi>Orphans.</hi>
+            </p>
+            <pb facs="tcp:171489:2"/>
+            <p>The City of <hi>London</hi> provides <hi>Sheriffs</hi> for the County of <hi>Middlesex,</hi> and excuseth the <hi>Gentlemen</hi> of the County from that Charge, Maintains the <hi>County Gaol</hi> for <hi>Middlesex</hi> and <hi>Westminster,</hi> and is at the sole Charge of Keeping all <hi>Sessions</hi> for Gaol-Delivery for all their <hi>Felons.</hi>
+            </p>
+            <p>
+               <hi>London</hi> also Contributes towards Supporting the <hi>Poor</hi> of divers Parishes, in <hi>Middlesex</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>In Reference to the <hi>Coal-Revenue</hi> desired, It was concluded by former <hi>Parliaments,</hi> to be the most Equal and Indifferent way of Raising Mony for Building the <hi>Churches,</hi> and other like Publick Uses in <hi>London;</hi> And it is humbly hoped, <hi>This Parliament</hi> will bestow it now upon the City, for Relief of <hi>Their Orphans:</hi> The Burthen whereof will not be great, and will lye principally on <hi>London</hi> and the Parts adjacent, who make no small Advantage by their Neighbourhood to <hi>London,</hi> and may well (for that and other Reasons before mention'd) contribute so small a Part towards Relief of the <hi>Orphans;</hi> And even those Parts without the City of <hi>London,</hi> are Inhabited by great Numbers of its <hi>Citizens.</hi>
+            </p>
+            <p>The Government of the City of <hi>London</hi> (unless delivered from the Pressure of this Great Debt) cannot long subsist; And it may be considered, That the <hi>City</hi> is useful and serviceable to the Nation in divers respects, particularly by the Great Sums raised Yearly to the Crown by its <hi>Trade;</hi> the Cities supplying Mony by <hi>Loans</hi> on all publick Emergences; and the great Part it bears of the <hi>Kingdoms Tax:</hi> And it may be for the Honour of the Nation, That the Government of its <hi>Capital City</hi> should be Maintained, and <hi>Assistance</hi> given them for Discharging a DEBT (wherein so many <hi>Poor Persons</hi> are concerned) Contracted only by the many great and unavoidable <hi>Calamities</hi> that have befallen the <hi>City,</hi> and by Payment of <hi>Interest</hi> from time to time: And not (as hath been suggested) by the present Government of the City, or in Extravagant Expences to Maintain the <hi>Mayor</hi> and <hi>Sheriffs,</hi> who Serve the Government at their own great Expence; And some of them have had their <hi>Estates</hi> greatly exhausted thereby.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>SAMƲEL ROYCROFT,</hi> Printer to the Honourable CITY of <hi>LONDON,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
